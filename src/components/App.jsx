@@ -9,7 +9,7 @@ function App() {
     <div className="App">
       <h1>holaa</h1>
      <Saludar></Saludar>
-      < header className="header-app">este es el header</header>
+      < header className="header-app">este es el header header </header>
      <principal>este es el contenido principal</principal>
      <footer>este es el footer</footer>
 
